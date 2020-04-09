@@ -1,4 +1,4 @@
 {
- "responseCode": 1,
- "token": "123456789",
+  "name": "John",
+  "age": 25,
 }
